@@ -1,0 +1,119 @@
+{
+  "data":[
+    {
+      "id": 1,
+      "name": "乐高EV3机器人积木玩具",
+      "img":
+        "https://m.360buyimg.com/mobilecms/s357x357_jfs/t6490/168/1052550216/653858/9eef28d1/594922a8Nc3afa743.jpg!q50.jpg",
+      "price": 3099,
+      "num": 165,
+      "type": "0",
+      "stock": 10,
+      "tjast":"20"
+    },
+    {
+      "id": 2,
+      "name": "荷兰 天赋力 Herobaby 婴儿配方奶粉 4段 1岁以上700g",
+      "img":
+        "http://t13.baidu.com/it/u=4173441311,737637031&fm=224&app=112&f=JPEG?w=500&h=500",
+      "price": 89,
+      "num": 1895,
+      "type": "0",
+      "stock": 12
+    },
+    {
+      "id": 3,
+      "name": "ANNE KLEIN 潮流经典美式轻奢",
+      "img":
+        "http://gw.alicdn.com/tps/TB1l5psQVXXXXcXaXXXL6TaGpXX_760x760q90s150.jpg_.webp",
+      "price": 585,
+      "num": 8191,
+      "type": "1",
+      "stock": 101
+    },
+    {
+      "id": 4,
+      "name": "全球购 路易威登（Louis Vuitton）新款女士LV印花手袋 M41112",
+      "img":
+        "https://m.360buyimg.com/n1/s220x220_jfs/t1429/17/1007119837/464370/310392f4/55b5e5bfN75daf703.png!q70.jpg",
+      "price": 10967,
+      "num": 6,
+      "type": "1",
+      "stock": 103,
+      "tjast":"20"
+    },
+    {
+      "id": 5,
+      "name": "DELSEY 男士双肩背包",
+      "img": "http://gw.alicdn.com/tps/LB1HL0mQVXXXXbzXVXXXXXXXXXX.png",
+      "price": 269,
+      "num": 69,
+      "type": "1"
+    },
+    {
+      "id": 6,
+      "name": "正品FENDI/芬迪女包钱包女长款 百搭真皮钱夹 女士小怪兽手拿包",
+      "img":
+        "http://img.alicdn.com/imgextra/i3/TB16avCQXXXXXcsXpXXXXXXXXXX_!!0-item_pic.jpg_400x400q60s30.jpg_.webp",
+      "price": 3580,
+      "num": 18,
+      "type": "1",
+      "stock": 1000,
+      "tjast":"20"   
+    },
+    {
+      "id": 7,
+      "name": "雀巢（Nestle）高钙成人奶粉",
+      "img":
+        "http://m.360buyimg.com/babel/jfs/t5197/28/400249159/97561/304ce550/58ff0dbeN88884779.jpg!q50.jpg.webp",
+      "price": 60,
+      "num": 2374,
+      "type": "2",
+      "stock": 2
+    },
+    {
+      "id": 8,
+      "name":
+        "【全球购】越南acecook河粉牛肉河粉特产 速食即食方便面粉丝 牛肉河粉米粉65克*5袋",
+      "img":
+        "https://m.360buyimg.com/mobilecms/s357x357_jfs/t3169/228/5426689121/95568/d463e211/586dbf56N37fcd503.jpg!q50.jpg",
+      "price": 19.9,
+      "num": 3041,
+      "type": "2",
+      "stock": 4
+    },
+    {
+      "id": 9,
+      "name": "Beats EP头戴式耳机",
+      "img":
+        "http://img11.360buyimg.com/n1/s528x528_jfs/t3109/194/2435573156/46587/e0e867ac/57e10978N87220944.jpg!q70.jpg",
+      "price": 585,
+      "num": 1872,
+      "type": "3",
+      "stock": 110,
+      "tjast":"20"
+    },
+    {
+      "id": 10,
+      "name": "Kindle Paperwhite3 黑色经典版电纸书",
+      "img":
+        "http://img12.360buyimg.com/n1/s528x528_jfs/t4954/76/635213328/51972/ec4a3c3c/58e5f717N4031d162.jpg!q70.jpg",
+      "price": 805,
+      "num": 395,
+      "type": "3",
+      "stock": 210
+     
+    },
+    {
+      "id": 11,
+      "name": "煎炒烹炸一锅多用",
+      "img":
+        "http://gw.alicdn.com/tps/TB19OfQRXXXXXbmXXXXL6TaGpXX_760x760q90s150.jpg_.webp",
+      "price": 216,
+      "num": 351,
+      "type": "3",
+      "stock": 310
+    }
+  ]
+
+}
